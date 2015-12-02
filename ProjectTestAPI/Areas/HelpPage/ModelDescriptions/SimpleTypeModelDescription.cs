@@ -1,0 +1,6 @@
+namespace ProjectTestAPI.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <Row>
+    <use>0</use>
+    <page>1</page>
+    <pic_file_name>a.jpg</pic_file_name>
+    <product_name>A商品</product_name>
+    <url>http://www.msdn.com</url>
+  </Row>
+  <Row>
+    <use>1</use>
+    <page>1</page>
+    <pic_file_name>b.jpg</pic_file_name>
+    <product_name>B商品</product_name>
+    <url>http://www.msdn.com</url>
+  </Row>
+  <Row>
+    <use>2</use>
+    <page>1</page>
+    <pic_file_name>c.jpg</pic_file_name>
+    <product_name>C商品</product_name>
+    <url>http://www.msdn.com</url>
+  </Row>
+  <Row>
+    <use>3</use>
+    <page>2</page>
+    <pic_file_name>d.jpg</pic_file_name>
+    <product_name>D商品</product_name>
+    <url>http://www.msdn.com</url>
+  </Row>
+  <Row>
+    <use>4</use>
+    <page>2</page>
+    <pic_file_name>e.jpg</pic_file_name>
+    <product_name>E商品</product_name>
+    <url>http://www.msdn.com</url>
+  </Row>
+
+</Root>

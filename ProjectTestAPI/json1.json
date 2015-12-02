@@ -1,0 +1,18 @@
+﻿[
+  {
+    "sid": "3814710190",
+    "uid": null,
+    "user_receive_time": "2015/11/17 09:35:24",
+    "error_msg": "",
+    "mobile": "15205201310",
+    "report_status": "SUCCESS"
+  },
+  {
+    "sid": "3814710191",
+    "uid": "",
+    "user_receive_time": "2015/11/17 09:35:26",
+    "error_msg": "",
+    "mobile": "15205201311",
+    "report_status": "FAIL"
+  }
+]
